@@ -1,0 +1,7 @@
+C:\Users\soums\source\repos\Assignment3p1\Assignment3p1\bin\Debug\Assignment3p1.exe.config
+C:\Users\soums\source\repos\Assignment3p1\Assignment3p1\bin\Debug\Assignment3p1.exe
+C:\Users\soums\source\repos\Assignment3p1\Assignment3p1\bin\Debug\Assignment3p1.pdb
+C:\Users\soums\source\repos\Assignment3p1\Assignment3p1\obj\Debug\Assignment3p1.csproj.AssemblyReference.cache
+C:\Users\soums\source\repos\Assignment3p1\Assignment3p1\obj\Debug\Assignment3p1.csproj.CoreCompileInputs.cache
+C:\Users\soums\source\repos\Assignment3p1\Assignment3p1\obj\Debug\Assignment3p1.exe
+C:\Users\soums\source\repos\Assignment3p1\Assignment3p1\obj\Debug\Assignment3p1.pdb
